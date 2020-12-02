@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SubHobo\\Projects\\AoC2020\\day1-2\\day1-2.csproj": {}
+    "C:\\Users\\SubHobo\\Projects\\AoC2020\\day2-2\\day2-2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SubHobo\\Projects\\AoC2020\\day1-2\\day1-2.csproj": {
+    "C:\\Users\\SubHobo\\Projects\\AoC2020\\day2-2\\day2-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SubHobo\\Projects\\AoC2020\\day1-2\\day1-2.csproj",
-        "projectName": "day1-2",
-        "projectPath": "c:\\Users\\SubHobo\\Projects\\AoC2020\\day1-2\\day1-2.csproj",
+        "projectUniqueName": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day2-2\\day2-2.csproj",
+        "projectName": "day2-2",
+        "projectPath": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day2-2\\day2-2.csproj",
         "packagesPath": "C:\\Users\\SubHobo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SubHobo\\Projects\\AoC2020\\day1-2\\obj\\",
+        "outputPath": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day2-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSYb24IPiURBV9IBM7jXZrMaEoETfcpIkSlGEJsO8M18e6NZUwt1B6vp7a+V5Ksu29KevPZfM+jPM1NsnHZItg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day4\\day4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SubHobo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\SubHobo\Projects\AoC2020\day5\bin\Debug\net5.0\day5.exe
+C:\Users\SubHobo\Projects\AoC2020\day5\bin\Debug\net5.0\day5.deps.json
+C:\Users\SubHobo\Projects\AoC2020\day5\bin\Debug\net5.0\day5.runtimeconfig.json
+C:\Users\SubHobo\Projects\AoC2020\day5\bin\Debug\net5.0\day5.runtimeconfig.dev.json
+C:\Users\SubHobo\Projects\AoC2020\day5\bin\Debug\net5.0\day5.dll
+C:\Users\SubHobo\Projects\AoC2020\day5\bin\Debug\net5.0\ref\day5.dll
+C:\Users\SubHobo\Projects\AoC2020\day5\bin\Debug\net5.0\day5.pdb
+C:\Users\SubHobo\Projects\AoC2020\day5\obj\Debug\net5.0\day5.csprojAssemblyReference.cache
+C:\Users\SubHobo\Projects\AoC2020\day5\obj\Debug\net5.0\day5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SubHobo\Projects\AoC2020\day5\obj\Debug\net5.0\day5.AssemblyInfoInputs.cache
+C:\Users\SubHobo\Projects\AoC2020\day5\obj\Debug\net5.0\day5.AssemblyInfo.cs
+C:\Users\SubHobo\Projects\AoC2020\day5\obj\Debug\net5.0\day5.csproj.CoreCompileInputs.cache
+C:\Users\SubHobo\Projects\AoC2020\day5\obj\Debug\net5.0\day5.dll
+C:\Users\SubHobo\Projects\AoC2020\day5\obj\Debug\net5.0\ref\day5.dll
+C:\Users\SubHobo\Projects\AoC2020\day5\obj\Debug\net5.0\day5.pdb
+C:\Users\SubHobo\Projects\AoC2020\day5\obj\Debug\net5.0\day5.genruntimeconfig.cache

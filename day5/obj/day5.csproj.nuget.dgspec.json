@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SubHobo\\Projects\\AoC2020\\day4\\day4.csproj": {}
+    "C:\\Users\\SubHobo\\Projects\\AoC2020\\day5\\day5.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SubHobo\\Projects\\AoC2020\\day4\\day4.csproj": {
+    "C:\\Users\\SubHobo\\Projects\\AoC2020\\day5\\day5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SubHobo\\Projects\\AoC2020\\day4\\day4.csproj",
-        "projectName": "day4",
-        "projectPath": "c:\\Users\\SubHobo\\Projects\\AoC2020\\day4\\day4.csproj",
+        "projectUniqueName": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day5\\day5.csproj",
+        "projectName": "day5",
+        "projectPath": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day5\\day5.csproj",
         "packagesPath": "C:\\Users\\SubHobo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SubHobo\\Projects\\AoC2020\\day4\\obj\\",
+        "outputPath": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,12 +44,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

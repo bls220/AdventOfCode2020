@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Qp8/TX5sbl7r9iJIJSn4yrA7S8nJuBkjZzRsccatsx3Uq7SpLSzAdmERzXRhuv/+7VGYF3FFNhIFFLrq8931g==",
+  "dgSpecHash": "zTnUl0TbD7sjthSru1rjHGx5/rvqO+yw8RLGxBpJ28BaJSgCNhSq63w8ADsXDy2k7Hp9fZBE40VZgICR7QJzEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day6\\day6.csproj",
+  "projectFilePath": "c:\\Users\\SubHobo\\Projects\\AoC2020\\day6\\day6.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

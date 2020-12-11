@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SubHobo\\Projects\\AoC2020\\day6\\day6.csproj": {}
+    "C:\\Users\\SubHobo\\Projects\\AoC2020\\day7\\day7.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SubHobo\\Projects\\AoC2020\\day6\\day6.csproj": {
+    "C:\\Users\\SubHobo\\Projects\\AoC2020\\day7\\day7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SubHobo\\Projects\\AoC2020\\day6\\day6.csproj",
-        "projectName": "day6",
-        "projectPath": "c:\\Users\\SubHobo\\Projects\\AoC2020\\day6\\day6.csproj",
+        "projectUniqueName": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day7\\day7.csproj",
+        "projectName": "day7",
+        "projectPath": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day7\\day7.csproj",
         "packagesPath": "C:\\Users\\SubHobo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SubHobo\\Projects\\AoC2020\\day6\\obj\\",
+        "outputPath": "C:\\Users\\SubHobo\\Projects\\AoC2020\\day7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
